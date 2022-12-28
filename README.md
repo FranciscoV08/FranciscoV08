@@ -7,7 +7,7 @@
 
 - 💬 Pregúntame sobre **HTML, CSS, JavaScript, React**
 
-- 📫 Puedes contactarme por **franciscovillavicencio129@gmail.com**
+- 📫 Puedes contactarme por **fvillavicen@gmail.com**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
